@@ -2,7 +2,7 @@
 
 A small arcade game about climbing the career ladder. Catch the good moves (mentors, referrals, raises), dodge the red flags (unpaid internships, "we're like a family", surprise layoffs), and grab power-ups on the way from **Still in college** to **Dream job**.
 
-**Play it:** _add your live link here_
+**Play it:** [career-catcher.vercel.app](https://career-catcher.vercel.app)
 
 ## How to play
 
